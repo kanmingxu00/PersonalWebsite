@@ -1,2 +1,2 @@
 # PersonalWebsite
-Personal Website
+Personal Website for personal projects and about me
